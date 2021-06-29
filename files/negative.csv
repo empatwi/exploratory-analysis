@@ -1,299 +1,299 @@
-,_id,created_at,tweet_content,keyword,user_location,entities,classified
-0,ObjectId(6091f3547ef2d107a44055cc),2021-05-04 12:30:48,mds nunca liberar,['Nubank'],Goiânia,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-2,ObjectId(6091f3547ef2d107a44055ce),2021-05-04 12:31:27,toda vez vejo lá conferir saldo certo juro traumatizar histórias roubar dinheiro,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-7,ObjectId(6091f3547ef2d107a44055d3),2021-05-04 12:31:46,rodrigolps _ caso observo aumentar juros dívida,['Nubank'],🏳️‍🌈,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Rodrigolps_', 'name': 'lovezinho', 'id': 487731479, 'id_str': '487731479', 'indices': [0, 12]}], 'symbols': []}",0.0
-8,ObjectId(6091f3547ef2d107a44055d4),2021-05-04 12:31:47,msswx processo nele,['Nubank'],Macaé,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'msswx', 'name': 'Mari Siqueira', 'id': 1240771193319370752, 'id_str': '1240771193319370752', 'indices': [0, 6]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [7, 14]}], 'symbols': []}",0.0
-12,ObjectId(6091f3547ef2d107a44055d8),2021-05-04 12:32:31,gastar cueca calvin klein,['Nike'],Hell not Helsinki,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-14,ObjectId(6091f3547ef2d107a44055da),2021-05-04 12:32:35,parar comer besteira logo dps café manhã bis,['Coca-cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-18,ObjectId(6091f3547ef2d107a44055de),2021-05-04 12:33:13,tipo parada falar furia gatorade plano raiz além bagulho sm,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-19,ObjectId(6091f3547ef2d107a44055df),2021-05-04 12:33:39,ódio poder aprovar crédito quê,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
-30,ObjectId(6091f3547ef2d107a44055ea),2021-05-04 12:35:17,generoso deixar povo endividar pagar juros lindar sqn,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-32,ObjectId(6091f3547ef2d107a44055ec),2021-05-04 12:35:18,aumento dar gatilho,['Nubank'],"Pindamonhangaba, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-37,ObjectId(6091f3547ef2d107a44055f1),2021-05-04 12:35:50,achar vestir odio,['SHEIN'],"Salvador, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-42,ObjectId(6091f3547ef2d107a44055f6),2021-05-04 12:36:27,aquellos hombres tiempo antes llegara mi pedido ignoraron sepan ahora estoy mi cima ha llegado mi pedir estoy ellos si estuviste las malas antes tendras lugar las buenas después,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-46,ObjectId(6091f3547ef2d107a44055fa),2021-05-04 12:36:52,deszanti ardido geralmente depender,['Nike'],"Guarulhos, Iraque","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'deszanti', 'name': 'lua', 'id': 777317655007129600, 'id_str': '777317655007129600', 'indices': [0, 9]}], 'symbols': []}",0.0
-47,ObjectId(6091f3547ef2d107a44055fb),2021-05-04 12:37:15,nunca aumentar,['Nubank'],Aldeia da Folha 🍃,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-50,ObjectId(6091f3547ef2d107a44055fe),2021-05-04 12:37:46,vir topo vir correr ver apple pay agilizar né apple,['Nubank'],"Goiânia, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [5, 12]}, {'screen_name': 'Apple', 'name': 'Apple', 'id': 380749300, 'id_str': '380749300', 'indices': [80, 86]}], 'symbols': []}",0.0
-51,ObjectId(6091f3547ef2d107a44055ff),2021-05-04 12:37:49,akbilbo drx paia dms roubar,['Nike'],031💸Ced,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'akbilbo', 'name': 'bilbo', 'id': 2786336070, 'id_str': '2786336070', 'indices': [0, 8]}], 'symbols': []}",0.0
-54,ObjectId(6091f3547ef2d107a4405602),2021-05-04 12:38:21,amo aumentar emprego,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'danilopaulodf', 'name': 'blessed bacon', 'id': 2352330198, 'id_str': '2352330198', 'indices': [3, 17]}], 'symbols': []}",0.0
-55,ObjectId(6091f3547ef2d107a4405603),2021-05-04 12:39:07,mundo ganhar aumento tendo pedir aumento recusar,['Nubank'],rio de janeiro,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-57,ObjectId(6091f3547ef2d107a4405605),2021-05-04 12:39:21,golpe seguir golpe outros cartões crédito fundo precisar aprender aulas arcuri,['Nubank'],"Campina Grande, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-58,ObjectId(6091f3547ef2d107a4405606),2021-05-04 12:39:28,preferir zz câmera poder perder iphone bateria dia,['Xiaomi'],"Contagem, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'gabriellima_004', 'name': 'lima 🔺', 'id': 1172164441892413442, 'id_str': '1172164441892413442', 'indices': [0, 16]}], 'symbols': []}",0.0
-63,ObjectId(6091f3547ef2d107a440560b),2021-05-04 12:40:01,anos nunca aumentar centavo,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-64,ObjectId(6091f3547ef2d107a440560c),2021-05-04 12:40:06,entao aumentar varios limites ate renda renda pagar dia nao fdp,['Nubank'],Red Room,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-67,ObjectId(6091f3547ef2d107a440560f),2021-05-04 12:40:25,sedento pontos,['SHEIN'],Guilherme 👼🏽🥀🖤,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-68,ObjectId(6091f3547ef2d107a4405610),2021-05-04 12:40:25,tomar cu taxa sacar dinheiro,['Nubank'],"Londrina, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-69,ObjectId(6091f3547ef2d107a4405611),2021-05-04 12:40:33,apostar banrisul dar maior pedir,['Nubank'],Porto Alegre -RS,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Banrisul', 'name': 'Banrisul', 'id': 296257613, 'id_str': '296257613', 'indices': [24, 33]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [80, 87]}], 'symbols': []}",0.0
-72,ObjectId(6091f3547ef2d107a4405614),2021-05-04 12:41:03,joarlens rapaz afrontar sentir menosprezar,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}, {'screen_name': 'Joarlens', 'name': 'Joarlens Afonso', 'id': 2799218177, 'id_str': '2799218177', 'indices': [8, 17]}], 'symbols': []}",0.0
-73,ObjectId(6091f3547ef2d107a4405615),2021-05-04 12:41:14,sustentar gracinha,['Nubank'],"Vila Valério, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
-74,ObjectId(6091f3547ef2d107a4405616),2021-05-04 12:41:16,pestanaskrr toda,['Coca-cola'],death star,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'pestanaskrr', 'name': 'sa ☘️ ⋮ 📚: six of crows ⍟', 'id': 1149107893381345280, 'id_str': '1149107893381345280', 'indices': [0, 12]}], 'symbols': []}",0.0
-76,ObjectId(6091f3547ef2d107a4405619),2021-05-04 12:41:47,primeira ficada pedir blusa,['Nike'],"Vila Velha, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-77,ObjectId(6091f3547ef2d107a440561a),2021-05-04 12:41:55,ameaçar bloquear cartão pagar fatura,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-78,ObjectId(6091f3547ef2d107a440561b),2021-05-04 12:42:13,assim aumentar outros nada,['Nubank'],Brasil,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-80,ObjectId(6091f3547ef2d107a440561d),2021-05-04 12:42:44,mundo ganhar aumento tendo pedir aumento recusar,['Nubank'],Brasil,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-82,ObjectId(6091f3547ef2d107a440561f),2021-05-04 12:42:44,simplesmente odiar,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [24, 31]}], 'symbols': []}",0.0
-84,ObjectId(6091f3547ef2d107a4405621),2021-05-04 12:43:28,receber encomenda finalmente acertar tamanhos coleira mandar lord pequena nunca acerto,['SHEIN'],Setúbal,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-86,ObjectId(6091f3547ef2d107a4405623),2021-05-04 12:43:52,poxa anos anos pontuais sido agraciar nenhuma,['Nubank'],Mariana-Mg,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
-88,ObjectId(6091f3547ef2d107a4405625),2021-05-04 12:43:53,humilhação pobre aumento nada,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-92,ObjectId(6091f3547ef2d107a4405629),2021-05-04 12:45:02,aumentar geral,['Nubank'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-95,ObjectId(6091f3547ef2d107a440562c),2021-05-04 12:45:50,ater tirar dúvida,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
-98,ObjectId(6091f3547ef2d107a440562f),2021-05-04 12:46:00,vamos concordar banco inter melhor banco servir render centavos sacar ver absurdo,['Nubank'],"Macapá, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-104,ObjectId(6091f3547ef2d107a4405635),2021-05-04 12:47:05,alto trabalhar,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'rangelweslley5', 'name': 'uerlei', 'id': 3356029973, 'id_str': '3356029973', 'indices': [3, 18]}], 'symbols': []}",0.0
-105,ObjectId(6091f3547ef2d107a4405636),2021-05-04 12:47:06,falar melhoraria alimentação semana eis tomar café manhã,['Coca-cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-106,ObjectId(6091f3547ef2d107a4405637),2021-05-04 12:47:06,acaso mulheres acabar baixar aparecer coisa feminina,['SHEIN'],"Itu, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-112,ObjectId(6091f3547ef2d107a440563d),2021-05-04 12:47:47,_ joaopgatti sophiaemanuella pedir aumento aumentar pruma espécie final fila,['Nubank'],"Sunyshore City, Sinnoh","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': '_joaopgatti', 'name': 'xota pê', 'id': 1256108838526373889, 'id_str': '1256108838526373889', 'indices': [0, 12]}, {'screen_name': 'sophiaemanuella', 'name': 'sofia', 'id': 1110361523967455232, 'id_str': '1110361523967455232', 'indices': [13, 29]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [30, 37]}], 'symbols': []}",0.0
-118,ObjectId(6091f3547ef2d107a4405643),2021-05-04 12:49:05,alguem ajudar,['Nubank'],Lomas de zamora,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [22, 29]}], 'symbols': []}",0.0
-119,ObjectId(6091f3547ef2d107a4405645),2021-05-04 12:49:18,amazonilio daddy dar academia tênis,['Nike'],sei não ó,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'amazonilio', 'name': 'venti do agreste', 'id': 1042281715677454337, 'id_str': '1042281715677454337', 'indices': [0, 11]}], 'symbols': []}",0.0
-120,ObjectId(6091f3547ef2d107a4405646),2021-05-04 12:49:28,achar compras perder caminho caminhão capotar perder,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-121,ObjectId(6091f3547ef2d107a4405647),2021-05-04 12:49:51,pedir trânsito enrolar,['SHEIN'],CRVG,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-122,ObjectId(6091f3547ef2d107a4405648),2021-05-04 12:49:55,comprar toda semana neh burguêsa safar,['SHEIN'],1994,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'hswift89', 'name': 'leeh', 'id': 1381348072542855172, 'id_str': '1381348072542855172', 'indices': [0, 9]}], 'symbols': []}",0.0
-124,ObjectId(6091f3547ef2d107a440564a),2021-05-04 12:50:08,achar precisar deixar nome spc dever agiotar perder casa jogo azar,['Nubank'],"zona leste, sp","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [110, 117]}], 'symbols': []}",0.0
-125,ObjectId(6091f3547ef2d107a440564b),2021-05-04 12:50:29,adiirjr sim falir android adir pira poder,['Xiaomi'],"Blumenau, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'adiirjr', 'name': 'Adir', 'id': 1069561194602786817, 'id_str': '1069561194602786817', 'indices': [0, 8]}], 'symbols': []}",0.0
-128,ObjectId(6091f3547ef2d107a440564f),2021-05-04 13:01:38,piada,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [21, 28]}], 'symbols': []}",0.0
-129,ObjectId(6091f3547ef2d107a4405650),2021-05-04 13:01:01,aumentar nunk,['Nubank'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
-131,ObjectId(6091f3547ef2d107a4405652),2021-05-04 13:01:58,entro site pergunto rico,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-132,ObjectId(6091f3547ef2d107a4405653),2021-05-04 13:02:23,sofrer achar jaqueta nba,['Nike'],21,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-133,ObjectId(6091f3547ef2d107a4405654),2021-05-04 13:02:31,tipo mentos tamos explodir,['Coca-cola'],Cuba,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'S2NTXS', 'name': 'santos !! 🗣', 'id': 1256577388156260356, 'id_str': '1256577388156260356', 'indices': [0, 7]}], 'symbols': []}",0.0
-134,ObjectId(6091f3547ef2d107a4405655),2021-05-04 13:02:32,xbabimonteiro acordar lindo mensagem porém aumento reais piar,['Nubank'],Brasília,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'xbabimonteiro', 'name': 'Babuxa', 'id': 1361471889089171456, 'id_str': '1361471889089171456', 'indices': [0, 14]}], 'symbols': []}",0.0
-136,ObjectId(6091f3547ef2d107a4405657),2021-05-04 13:03:09,shouyoplcs perfume jogador lol,['Boticário'],dc: Naomi Aiko#4324    (ela/u),"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'SHOUYOPlCS', 'name': 'foo', 'id': 1370423030766317568, 'id_str': '1370423030766317568', 'indices': [0, 11]}], 'symbols': []}",0.0
-137,ObjectId(6091f3547ef2d107a4405658),2021-05-04 13:02:55,aumentar aumentar salário foda,['Nubank'],"Rio Grande do Sul, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-140,ObjectId(6091f3547ef2d107a440565b),2021-05-04 13:03:51,pedir uso pagar sempre dia utilizar outros cartões porque suportar gastos poxinha,['Nubank'],Rio de Janeiro,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
-148,ObjectId(6091f3547ef2d107a4405663),2021-05-04 13:05:01,vejo imaginar merda vez,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-149,ObjectId(6091f3547ef2d107a4405664),2021-05-04 13:04:52,parar porra descontar retira dinheiro caixa,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-151,ObjectId(6091f3547ef2d107a4405666),2021-05-04 13:05:18,lojinhas insta compra roupa vender produção exclusiva,['SHEIN'],clareira na mata - 012,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-157,ObjectId(6091f3547ef2d107a440566c),2021-05-04 13:10:44,trendings aumento abrir app atoa,['Nubank'],"Vitória, ES","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
-161,ObjectId(6091f3547ef2d107a4405670),2021-05-04 13:10:48,aumento mundo continuar zero tendo usar temporário,['Nubank'],My Bieber Experience,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
-162,ObjectId(6091f3547ef2d107a4405671),2021-05-04 13:11:03,ver mundo receber coisas ontem menos,['SHEIN'],Brasil,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-165,ObjectId(6091f3547ef2d107a4405674),2021-05-04 13:11:05,ódio anal site dunkzinho,['Nike'],Brazil,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-166,ObjectId(6091f3547ef2d107a4405675),2021-05-04 13:11:08,dearschafer vidar ter crédito crédito melhor vista né dona,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Thamires_Dias12', 'name': 'Thamires🖤', 'id': 1040240031460405250, 'id_str': '1040240031460405250', 'indices': [3, 19]}, {'screen_name': 'dearschafer', 'name': 'f', 'id': 856854031, 'id_str': '856854031', 'indices': [21, 33]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [130, 137]}], 'symbols': []}",0.0
-167,ObjectId(6091f3547ef2d107a4405676),2021-05-04 13:11:14,tempo irmao,['Nubank'],"Anápolis, 🇧🇷","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
-168,ObjectId(6091f3547ef2d107a4405677),2021-05-04 13:11:09,eeeeguas deixar,['Nubank'],"São Luís, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'julianerys_', 'name': ""don't call me anjão"", 'id': 171442438, 'id_str': '171442438', 'indices': [3, 15]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [42, 49]}], 'symbols': []}",0.0
-174,ObjectId(6091f3547ef2d107a440567d),2021-05-04 13:11:49,aumentar crédito mundo bobo incrível zero reais né,['Nubank'],My Bieber Experience,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-176,ObjectId(6091f3547ef2d107a440567f),2021-05-04 13:12:05,cadê aumento,['Nubank'],"Brasília, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
-177,ObjectId(6091f3547ef2d107a4405680),2021-05-04 13:12:20,nunca aumentar bosta,['Nubank'],"Contagem, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-181,ObjectId(6091f3547ef2d107a4405684),2021-05-04 13:12:56,sirati_joao caralho empresta,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'sirati_joao', 'name': 'Sirati', 'id': 1061798275991388160, 'id_str': '1061798275991388160', 'indices': [0, 12]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [13, 20]}], 'symbols': []}",0.0
-182,ObjectId(6091f3547ef2d107a4405685),2021-05-04 13:12:57,alô aumentar aiii,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'NBrunn1_', 'name': 'NaBru', 'id': 978245198462451712, 'id_str': '978245198462451712', 'indices': [0, 9]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [14, 21]}], 'symbols': []}",0.0
-183,ObjectId(6091f3547ef2d107a4405686),2021-05-04 13:13:08,amo odeio,['Nike'],MS,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-186,ObjectId(6091f3547ef2d107a4405689),2021-05-04 13:13:18,oq aumentar mundo menos gastar filha puta,['Nubank'],South Africa,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'juavnn', 'name': 'Julia', 'id': 4873256859, 'id_str': '4873256859', 'indices': [3, 10]}], 'symbols': []}",0.0
-187,ObjectId(6091f3547ef2d107a440568a),2021-05-04 13:13:20,aumentaaaa limiteeeeeee,['Nubank'],Ovelhas negras,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
-189,ObjectId(6091f3547ef2d107a440568c),2021-05-04 13:13:27,responder evitar fadiga mandar casa caralho,['Nubank'],"Duque de Caxias, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'brunosouzaf10', 'name': 'Bruno ᶜʳᶠ', 'id': 3379734113, 'id_str': '3379734113', 'indices': [0, 14]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [15, 22]}], 'symbols': []}",0.0
-193,ObjectId(6091f3547ef2d107a4405690),2021-05-04 13:13:39,esperar tanto aumento piar,['Nubank'],Brasília,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
-194,ObjectId(6091f3547ef2d107a4405691),2021-05-04 13:13:42,melhorar atendimento virtual respondam dm,['Nubank'],"Recife, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
-196,ObjectId(6091f3547ef2d107a4405693),2021-05-04 13:13:55,promodelivro falto cartão crédito aprovar menos desisti vida,['Nubank'],"Pernambuco, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'promodelivro', 'name': 'Promo De Livro', 'id': 1260963792487362561, 'id_str': '1260963792487362561', 'indices': [0, 13]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [54, 61]}], 'symbols': []}",0.0
-198,ObjectId(6091f3547ef2d107a4405695),2021-05-04 13:14:04,site grande lixo,['Nike'],"Itapetininga, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-200,ObjectId(6091f3547ef2d107a4405697),2021-05-04 13:14:08,tomar cu site caralho ver odio,['Nike'],"Guarujá, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-202,ObjectId(6091f3547ef2d107a4405699),2021-05-04 13:14:24,pagar fatura vencer dia bem adiantar percebe fazer ganhar aumento,['Nubank'],"Porciúncula, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
-205,ObjectId(6091f3547ef2d107a440569c),2021-05-04 13:14:46,cartão nunca chegar,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-206,ObjectId(6091f3547ef2d107a440569d),2021-05-04 13:14:56,crisvector uso pumabrasil hahhahaa nazi nunca enganar,['Nike'],"São José dos Campos, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'crisvector', 'name': 'Cris', 'id': 17984064, 'id_str': '17984064', 'indices': [0, 11]}, {'screen_name': 'pumabrasil', 'name': 'pumabrasil', 'id': 281551749, 'id_str': '281551749', 'indices': [22, 33]}, {'screen_name': 'Nike', 'name': 'Nike', 'id': 415859364, 'id_str': '415859364', 'indices': [36, 41]}], 'symbols': []}",0.0
-209,ObjectId(6091f3547ef2d107a44056a0),2021-05-04 13:15:22,dever tirar cara liberar cartão crédito,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-215,ObjectId(6091f3547ef2d107a44056a6),2021-05-04 13:15:40,pedir aumento ontem dar agora entro twitter mundo ganhar,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [33, 40]}], 'symbols': []}",0.0
-217,ObjectId(6091f3547ef2d107a44056a8),2021-05-04 13:15:59,xlauralima pleasenat iria anos cartão mundo falir demora séculos,['Nubank'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'xlauralima', 'name': 'laura', 'id': 609784377, 'id_str': '609784377', 'indices': [0, 11]}, {'screen_name': 'pleasenat', 'name': 'nat⁷ 🧈', 'id': 2800273941, 'id_str': '2800273941', 'indices': [12, 22]}], 'symbols': []}",0.0
-221,ObjectId(6091f3547ef2d107a44056ac),2021-05-04 13:16:13,namoral aumentar disgraça ter inter msm porra,['Nubank'],"Salvador, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [8, 15]}], 'symbols': []}",0.0
-222,ObjectId(6091f3547ef2d107a44056ad),2021-05-04 13:16:17,mundo ganhar aumento tendo pedir aumento recusar,['Nubank'],"Piauí, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-225,ObjectId(6091f3547ef2d107a44056b0),2021-05-04 13:16:25,agora aumentou poder pagar imaginar,['Nubank'],"Recife, Pernambuco","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-227,ObjectId(6091f3547ef2d107a44056b2),2021-05-04 13:16:38,taxa saque,['Nubank'],Davi Luís 💙,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-231,ObjectId(6091f3547ef2d107a44056b6),2021-05-04 13:16:51,última vez traviscote fazer música boa logo ainda certo,['Nike'],"Curitiba, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-232,ObjectId(6091f3547ef2d107a44056b7),2021-05-04 13:16:53,dia difícil taxada,['SHEIN'],"Itabira, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-233,ObjectId(6091f3547ef2d107a44056b8),2021-05-04 13:16:56,mês cancelar force agora subir preço odeio odeio,['Nike'],"Indaiatuba, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-235,ObjectId(6091f3547ef2d107a44056ba),2021-05-04 13:16:58,marabacarlos fazer la mix mateus dar certo drx kkkkkkkj,['Nubank'],"Tucuruí, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'MarabaCarlos', 'name': 'Carlos Zduardo Maraba', 'id': 1192649393188589568, 'id_str': '1192649393188589568', 'indices': [0, 13]}], 'symbols': []}",0.0
-237,ObjectId(60994ca4b936924605170069),2021-05-10 14:37:47,boonbap desde janeiro tentar desbloquear cartão alar,['Nubank'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'boonbap', 'name': 'Bon - 低音 🥁| MLK DO RJ', 'id': 925392913797996544, 'id_str': '925392913797996544', 'indices': [0, 8]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [62, 69]}], 'symbols': []}",0.0
-241,ObjectId(60994ca4b936924605170093),2021-05-10 14:43:09,fêmea continuar diminuir qm usar cropped short lindar amo estilo diferenciar,['SHEIN'],"Passos, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-242,ObjectId(60994ca4b93692460517009b),2021-05-10 14:44:15,ia perder pontos á pala ellen passar durante conseguir volta,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-243,ObjectId(60994ca4b9369246051700a3),2021-05-10 14:45:33,dinheiro,['Nubank'],goias,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-252,ObjectId(60994ca4b93692460517007e),2021-05-10 14:39:58,poder brincadeira cara,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-256,ObjectId(60994ca4b936924605170061),2021-05-10 14:36:18,email recargar celular email dizer convidar testar apple pay roxo,['Nubank'],"Mendes, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
-260,ObjectId(60994ca4b9369246051700bf),2021-05-10 14:49:42,brendinhakonig esquecer,['Nike'],"Lorena, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Brendinhakonig', 'name': 'Brendinha', 'id': 1274867376119590916, 'id_str': '1274867376119590916', 'indices': [0, 15]}], 'symbols': []}",0.0
-261,ObjectId(60994ca4b9369246051700ce),2021-05-10 14:50:34,negar compra exceder kkkkkkkkkkkkkk,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-264,ObjectId(60994ca4b9369246051700e3),2021-05-10 14:52:36,amo problema deixar sacar pagar taxa obrigar abrir contar lugar,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-265,ObjectId(60994ca4b9369246051700f6),2021-05-10 14:54:35,mauriciocola incrível sente prazer cagar camisas aproveitamento impressionante,['Nike'],"Maceió, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'MauricioCola', 'name': 'Маurício Simões ⭐', 'id': 230115217, 'id_str': '230115217', 'indices': [0, 13]}], 'symbols': []}",0.0
-268,ObjectId(60994ca4b9369246051700ad),2021-05-10 14:47:16,comprar paciência nenhuma espera,['SHEIN'],Deprelândia - lagrimas,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-271,ObjectId(60994ca4b9369246051700cd),2021-05-10 14:50:32,shorts jeans misericórdia kkkkkkkkkkk,['SHEIN'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-273,ObjectId(60994ca4b9369246051700ff),2021-05-10 14:56:22,horror professor usar junto,['Nike'],"Campina Grande, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-277,ObjectId(60994ca4b93692460517006f),2021-05-10 14:38:39,mariaaa_juulia cadê roupas,['SHEIN'],"Paraná, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'mariaaa_juulia', 'name': '✹ ☽', 'id': 896096841829371904, 'id_str': '896096841829371904', 'indices': [0, 15]}], 'symbols': []}",0.0
-279,ObjectId(60994ca4b93692460517007d),2021-05-10 14:39:56,amaralgusman amo saber perder dinheiro irrita nível,['Nubank'],"Camaçari, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'amaralgusman', 'name': '𝙖𝙢𝙖𝙧𝙖𝙡', 'id': 771172927941193729, 'id_str': '771172927941193729', 'indices': [0, 13]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [14, 21]}], 'symbols': []}",0.0
-281,ObjectId(60994ca4b936924605170082),2021-05-10 14:40:21,beber rato,['Coca-cola'],"Coronel Fabriciano, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-283,ObjectId(60994ca4b936924605170090),2021-05-10 14:42:23,ficar fria pagar,['Nubank'],Diadema SP,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-285,ObjectId(60994ca4b9369246051700b9),2021-05-10 14:48:57,marcoslonguini europa fraca vários times pontar usar,['Nike'],Itapevi - SP,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'marcoslonguini', 'name': 'Z.', 'id': 1134073321308508160, 'id_str': '1134073321308508160', 'indices': [0, 15]}, {'screen_name': 'RodrigoBuenoTV', 'name': 'Rodrigo Bueno', 'id': 45385616, 'id_str': '45385616', 'indices': [16, 31]}], 'symbols': []}",0.0
-287,ObjectId(60994ca4b9369246051700c5),2021-05-10 14:49:59,sonho acabar logo contrato corinthians,['Nike'],‏زكواد,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-288,ObjectId(60994ca4b9369246051700ca),2021-05-10 14:50:20,_ padueli ricardomenezess ver preço camisa reais,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': '_padueli', 'name': 'Gustavo Padueli', 'id': 1256419199938899975, 'id_str': '1256419199938899975', 'indices': [0, 9]}, {'screen_name': 'Victorgmo2_', 'name': 'Victorᶜᵃᵐ', 'id': 1274462174635753479, 'id_str': '1274462174635753479', 'indices': [10, 22]}, {'screen_name': 'RicardoMenezess', 'name': 'Ric@rdo 🔴⚫️', 'id': 90640755, 'id_str': '90640755', 'indices': [23, 39]}, {'screen_name': 'RodrigoBuenoTV', 'name': 'Rodrigo Bueno', 'id': 45385616, 'id_str': '45385616', 'indices': [40, 55]}], 'symbols': []}",0.0
-289,ObjectId(60994ca4b9369246051700d3),2021-05-10 14:50:53,cadê corinthians,['Nike'],Minha Casa,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'RodrigoBuenoTV', 'name': 'Rodrigo Bueno', 'id': 45385616, 'id_str': '45385616', 'indices': [0, 15]}], 'symbols': []}",0.0
-292,ObjectId(60994ca4b936924605170106),2021-05-10 14:57:44,maxsepz porra usar pcr kkkkkk,['Nike'],aracaju,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'maxsepz', 'name': 'max.', 'id': 1337390667711049730, 'id_str': '1337390667711049730', 'indices': [0, 8]}], 'symbols': []}",0.0
-293,ObjectId(60994ca4b93692460517005f),2021-05-10 14:35:42,espremer universitário final semestre sair caldo preto mistura café ódio,['Coca-cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'unbsincera', 'name': 'UnB Sincera', 'id': 1265727126550044674, 'id_str': '1265727126550044674', 'indices': [3, 14]}], 'symbols': []}",0.0
-294,ObjectId(60994ca4b936924605170064),2021-05-10 14:36:51,parecer querer envolver time futebol querer tradicionais msm,['Nike'],"Cariacica, ES","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'RodrigoBuenoTV', 'name': 'Rodrigo Bueno', 'id': 45385616, 'id_str': '45385616', 'indices': [0, 15]}], 'symbols': []}",0.0
-297,ObjectId(60994ca4b9369246051700a9),2021-05-10 14:46:19,fazer cancelar contar uso tanto tempo sair lugar,['Nubank'],Recife,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
-299,ObjectId(60994ca4b9369246051700d0),2021-05-10 14:50:36,ótimo resolver ficar instável bem dia pagar boleto,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [12, 19]}], 'symbols': []}",0.0
-300,ObjectId(60994ca4b9369246051700de),2021-05-10 14:52:13,suplicar ajuda porque correr risco vidar preciso ajudar medicamentos saber aguentar forte pix pessoa gmail picpay nahnathy itau agência contar,['Nubank'],Hogsmeade,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Nahnathy_', 'name': '⚠️AJUDE A NATHALIA⚠️', 'id': 1234008773167132672, 'id_str': '1234008773167132672', 'indices': [3, 13]}], 'symbols': []}",0.0
-301,ObjectId(60994ca4b9369246051700e6),2021-05-10 14:53:03,ent preferir,['Nike'],"Santa Catarina, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-307,ObjectId(60994ca4b93692460517007b),2021-05-10 14:39:48,rato,['Coca-cola'],bh,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-308,ObjectId(60994ca4b936924605170088),2021-05-10 14:41:05,indecisa lacoste fodase gastar,['Nike'],"Tremp, España","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-313,ObjectId(60994ca4b9369246051700d8),2021-05-10 14:51:33,crianças pais mães ficar cima frequentar igreja trabalhar dia bocar fumo porta traficante portar fazer bonito pagar esbanjar vida boa desleal,['Coca-cola'],"Rio Branco, Acre","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'olabocos', 'name': 'Debs', 'id': 958510631967129600, 'id_str': '958510631967129600', 'indices': [3, 12]}], 'symbols': []}",0.0
-318,ObjectId(60994ca4b9369246051700a0),2021-05-10 14:45:11,demorar super cair pagamento pqp,['Nubank'],"Niterói, RJ","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-322,ObjectId(60994ca4b9369246051700e5),2021-05-10 14:52:59,comprar carrinho desânimo existencial passar,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-323,ObjectId(60994ca4b9369246051700f4),2021-05-10 14:54:23,app apresentar instabilidade algum problema plataforma dever preocupar app contar pessoal,['Nubank'],"Belém, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
-329,ObjectId(60994ca4b93692460517008c),2021-05-10 14:41:41,começar mal toda vez bebo sentir dor forte barriga,['Coca-cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-330,ObjectId(60994ca4b936924605170094),2021-05-10 14:42:54,maior roubar vida smartphone ajude,['Xiaomi'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-338,ObjectId(60994ca4b936924605170083),2021-05-10 14:40:33,l_cocate gosto dms tênis feio dms,['Nike'],Guarapuava PR,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'l_cocate', 'name': 'cocate', 'id': 1230544319599271936, 'id_str': '1230544319599271936', 'indices': [0, 9]}], 'symbols': []}",0.0
-340,ObjectId(60994ca4b9369246051700ab),2021-05-10 14:46:46,toda vez tomar mãe lembrar celulite desistir,['Coca-cola'],"Brasília, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-341,ObjectId(60994ca4b9369246051700af),2021-05-10 14:47:25,perder casaco flamengo,['Nike'],Angra dos Reis 🌴,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-343,ObjectId(60994ca4b9369246051700df),2021-05-10 14:52:14,puto bolso comprar roupa,['SHEIN'],21,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-347,ObjectId(60994ca4b936924605170060),2021-05-10 14:36:12,pedir treco agora esperar anos chegar treco,['SHEIN'],"Cuiabá, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-349,ObjectId(60994ca4b93692460517006c),2021-05-10 14:38:15,brendinhakonig uso camisa time,['Nike'],"Praia Grande, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Brendinhakonig', 'name': 'Brendinha', 'id': 1274867376119590916, 'id_str': '1274867376119590916', 'indices': [0, 15]}], 'symbols': []}",0.0
-351,ObjectId(60994ca4b9369246051700a2),2021-05-10 14:45:20,guuuuhsantana duvidar melhor man,['Nubank'],"Guarujá, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'GuuuuhSantana', 'name': 'AGOSTUV', 'id': 2782824163, 'id_str': '2782824163', 'indices': [0, 14]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [15, 22]}], 'symbols': []}",0.0
-355,ObjectId(60994ca4b9369246051700f1),2021-05-10 14:53:58,saia pedir chegar calça pedir dias antes ainda sentido,['SHEIN'],"Cuiabá, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-356,ObjectId(60994ca4b936924605170102),2021-05-10 14:56:39,cês saber encontro blusinha gola alta ok saber enfim algum lugar vender,['SHEIN'],22,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-364,ObjectId(60994ca4b9369246051700cf),2021-05-10 14:50:35,luhquennehen poder assistente pagar cent dia sim trabalho escravo,['SHEIN'],Loonaverse,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'LuhQuennehen', 'name': 'luh quennehen', 'id': 1205684381609799680, 'id_str': '1205684381609799680', 'indices': [0, 13]}], 'symbols': []}",0.0
-367,ObjectId(60994ca4b936924605170073),2021-05-10 14:38:49,odeio,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-372,ObjectId(60994ca4b9369246051700e4),2021-05-10 14:52:44,existir missão parar tomar refrigerante fácil dar éo goat refrigerantes,['Coca-cola'],"Sete Lagoas, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-376,ObjectId(60994ca4b936924605170108),2021-05-10 14:58:12,spfczara nunca superar ter largar,['Nike'],"São Paulo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'spfczara', 'name': 'Zara', 'id': 1213615837631799297, 'id_str': '1213615837631799297', 'indices': [0, 9]}], 'symbols': []}",0.0
-385,ObjectId(60994ca4b936924605170087),2021-05-10 14:41:02,eai soltar roupas,['SHEIN'],no mundão,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-387,ObjectId(60994ca4b936924605170096),2021-05-10 14:43:30,pare oferecer seguro vida oferecer empréstimo,['Nubank'],"Salvador, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-391,ObjectId(60994ca4b9369246051700a4),2021-05-10 14:45:25,chato notificações oferendar seguro vida,['Nubank'],BH-MG,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [34, 41]}], 'symbols': []}",0.0
-392,ObjectId(60994ca4b9369246051700b0),2021-05-10 14:47:30,vestir sula,['Nike'],"São Paulo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'RodrigoBuenoTV', 'name': 'Rodrigo Bueno', 'id': 45385616, 'id_str': '45385616', 'indices': [0, 15]}], 'symbols': []}",0.0
-394,ObjectId(60994ca4b9369246051700d2),2021-05-10 14:50:47,isabollalauck terra cropped shortinho,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'isabollalauck', 'name': '𝔟𝔢𝔩𝔩', 'id': 4691319571, 'id_str': '4691319571', 'indices': [0, 14]}], 'symbols': []}",0.0
-396,ObjectId(60994ca4b9369246051700e7),2021-05-10 14:53:03,daniellmrc poco phone top bateria mah,['Xiaomi'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'EmilioSandro3', 'name': 'Sandro Emílio', 'id': 1048538688706269184, 'id_str': '1048538688706269184', 'indices': [0, 14]}, {'screen_name': 'DaniellMrC', 'name': 'mqo neoliberal', 'id': 107856897, 'id_str': '107856897', 'indices': [15, 26]}], 'symbols': []}",0.0
-397,ObjectId(60994ca4b9369246051700e9),2021-05-10 14:53:20,ressaca desgrama vei,['Coca-cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-401,ObjectId(60994ca4b93692460517008e),2021-05-10 14:42:02,cartão crédito cair dinheiro nunca va tomar cu,['Nubank'],Guaratinguetá,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [69, 76]}], 'symbols': []}",0.0
-402,ObjectId(60994ca4b936924605170097),2021-05-10 14:43:47,iphone andar,['Xiaomi'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'camillebaleeir3', 'name': 'camille baleeiro 🤪', 'id': 1353893505551233024, 'id_str': '1353893505551233024', 'indices': [0, 16]}], 'symbols': []}",0.0
-406,ObjectId(60994ca4b9369246051700e1),2021-05-10 14:52:36,vidalet _ v_montechiari sim camisa flamengo uruguaiana bermuda korova tênis,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'vidalet_', 'name': 'ana bia', 'id': 1648549243, 'id_str': '1648549243', 'indices': [0, 9]}, {'screen_name': 'v_montechiari', 'name': 'Vince', 'id': 3971602077, 'id_str': '3971602077', 'indices': [10, 24]}], 'symbols': []}",0.0
-408,ObjectId(60995a43b936924605203d06),2021-05-10 15:20:00,lekinhobala dizer manos pé desculpar quebrar corrente,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'lekinhobala', 'name': 'tegaboy #residentevilvillage', 'id': 1279985811698651136, 'id_str': '1279985811698651136', 'indices': [0, 12]}], 'symbols': []}",0.0
-411,ObjectId(60995a43b936924605203d30),2021-05-10 15:23:36,perder noção dar alto crédito kkkkkkkkkkkkkkk,['Nubank'],"Taubaté, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-417,ObjectId(60995a43b936924605203d3a),2021-05-10 15:24:33,caralho gostar tanto chuteiras preocupar,['Nike'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'RodrigoBuenoTV', 'name': 'Rodrigo Bueno', 'id': 45385616, 'id_str': '45385616', 'indices': [0, 15]}], 'symbols': []}",0.0
-418,ObjectId(60995a43b936924605203d47),2021-05-10 15:26:49,nao saber cansada ficar alterar senha porque esquecer,['Nubank'],Hogwarts,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-422,ObjectId(60995a43b936924605203d66),2021-05-10 15:31:34,preciso acabar vicio chamar,['Coca-cola'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-426,ObjectId(60995a43b936924605203d7e),2021-05-10 15:34:42,vei coisa chegar nunk,['SHEIN'],Mauá,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-427,ObjectId(60995a43b936924605203d81),2021-05-10 15:34:44,futebol_info ataquemarketing rapaz abandonar futebol sul americano,['Nike'],"Jacarepaguá, Rj","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'futebol_info', 'name': 'Planeta do Futebol 🌎', 'id': 193500696, 'id_str': '193500696', 'indices': [0, 13]}, {'screen_name': 'S7_ofcc', 'name': 'S7 🐧🧙🏽\u200d♂️', 'id': 1167613164151857152, 'id_str': '1167613164151857152', 'indices': [14, 22]}, {'screen_name': 'AtaqueMarketing', 'name': 'Ataque Marketing Esportivo', 'id': 121522082, 'id_str': '121522082', 'indices': [23, 39]}], 'symbols': []}",0.0
-430,ObjectId(60995a43b936924605203da2),2021-05-10 15:40:16,ulttmaknae vei compras tao la dias odio unferno cu buceta,['SHEIN'],• ela/dela,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'ulttmaknae', 'name': '🖕', 'id': 3837954861, 'id_str': '3837954861', 'indices': [0, 11]}], 'symbols': []}",0.0
-441,ObjectId(60995a43b936924605203d95),2021-05-10 15:39:01,escolher lingeries chorar ter mto dinheiro,['SHEIN'],Protegida por Deus,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-443,ObjectId(60995a43b936924605203db3),2021-05-10 15:45:06,deixar desejar crl uniforme igual mundo,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'lctbl10', 'name': 'lucas lira🤴🏾', 'id': 2871564865, 'id_str': '2871564865', 'indices': [0, 8]}], 'symbols': []}",0.0
-445,ObjectId(60995a43b936924605203dcc),2021-05-10 15:48:23,desistir américa sul,['Nike'],Brasil,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'cronistaesporte', 'name': 'Tiago Ferreira', 'id': 155419031, 'id_str': '155419031', 'indices': [3, 19]}], 'symbols': []}",0.0
-446,ObjectId(60995a43b936924605203df1),2021-05-10 15:53:58,preciso pagar boletos serviço pagamento boleto ar,['Nubank'],"blackreach, skyrim","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [27, 34]}], 'symbols': []}",0.0
-447,ObjectId(60995a43b936924605203df5),2021-05-10 15:53:25,coisado,['Nubank'],Juiz de Fora,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-454,ObjectId(60995a43b936924605203d3d),2021-05-10 15:25:17,app bug estranho hora pagar boletos,['Nubank'],Narnia,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-455,ObjectId(60995a43b936924605203d42),2021-05-10 15:25:55,viciar,['Coca-cola'],Rio de Janeiro,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-458,ObjectId(60995a43b936924605203d5d),2021-05-10 15:30:01,mola feio vans usuário óleo sobre tela,['Nike'],"Jacaré, serra ","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'PedroSeschini', 'name': '𝖕𝖊𝖉𝖗𝖔𝖘𝖊𝖘𝖈𝖍𝖎𝖓𝖎 🩸🐉', 'id': 4013112622, 'id_str': '4013112622', 'indices': [3, 17]}], 'symbols': []}",0.0
-462,ObjectId(60995a43b936924605203dae),2021-05-10 15:44:24,ruim credo maldito covid tirar paixão,['Coca-cola'],lá mesmo,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-463,ObjectId(60995a43b936924605203dc1),2021-05-10 15:46:26,aplicativo lento celta subir ar ligar impossível pagar boleto,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-464,ObjectId(60995a43b936924605203dc7),2021-05-10 15:47:21,jahgodomingues marcoslonguini adidasbrasil underarmourbr pumabrasil mandar bem camisa seleção,['Nike'],São Paulo/Franco da Rocha,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Alfredobrincad1', 'name': 'Alfredo felipe', 'id': 1369454908274057218, 'id_str': '1369454908274057218', 'indices': [3, 19]}, {'screen_name': 'JahgoDomingues', 'name': 'Jahgodomingues', 'id': 289089271, 'id_str': '289089271', 'indices': [21, 36]}, {'screen_name': 'marcoslonguini', 'name': 'Z.', 'id': 1134073321308508160, 'id_str': '1134073321308508160', 'indices': [37, 52]}, {'screen_name': 'RodrigoBuenoTV', 'name': 'Rodrigo Bueno', 'id': 45385616, 'id_str': '45385616', 'indices': [53, 68]}, {'screen_name': 'adidasbrasil', 'name': 'adidasbrasil', 'id': 42894971, 'id_str': '42894971', 'indices': [69, 82]}, {'screen_name': 'underarmourbr', 'name': 'Under Armour Brasil', 'id': 2327577853, 'id_str': '2327577853', 'indices': [83, 97]}, {'screen_name': 'pumabrasil', 'name': 'pumabrasil', 'id': 281551749, 'id_str': '281551749', 'indices': [98, 109]}, {'screen_name': 'Nike', 'name': 'Nike', 'id': 415859364, 'id_str': '415859364', 'indices': [110, 115]}], 'symbols': []}",0.0
-466,ObjectId(60995a43b936924605203ddb),2021-05-10 15:49:53,solicitar saber quantos pedidos estagiários devir odiar,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-467,ObjectId(60995a43b936924605203dde),2021-05-10 15:49:49,gnt provar roupas ficar tds lixo,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-472,ObjectId(60995a43b936924605203e4e),2021-05-10 16:05:37,saudável sim porra tomar copo saudável,['Coca-cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-473,ObjectId(60995a43b936924605203d4d),2021-05-10 15:27:34,escolanosense nn entender geração,['Coca-cola'],"Hawkins, Indiana","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Domingo3609', 'name': 'João', 'id': 1097897626287124481, 'id_str': '1097897626287124481', 'indices': [0, 12]}, {'screen_name': 'escolanosense', 'name': 'Coisas que só acontecem na escola brasileira', 'id': 1293674715773640704, 'id_str': '1293674715773640704', 'indices': [13, 27]}], 'symbols': []}",0.0
-474,ObjectId(60995a43b936924605203d58),2021-05-10 15:29:24,blusa mochila,['Nike'],Completo da serrinha,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-475,ObjectId(60995a43b936924605203d73),2021-05-10 15:33:37,chegar encomenda casa feliz achar roupas nemm,['SHEIN'],sina is too famous for me,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-476,ObjectId(60995a43b936924605203d7f),2021-05-10 15:34:48,mal entender abrir latinha,['Coca-cola'],𝐁𝐀𝐍𝐆𝐓𝐖𝐈𝐂𝐄 🍒,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-482,ObjectId(60995a43b936924605203e0c),2021-05-10 15:57:38,quase certeza concentrar design deixar estagiários cuidar outros times possível,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'felipevalenteee', 'name': 'Valente', 'id': 1117646050767114241, 'id_str': '1117646050767114241', 'indices': [3, 19]}], 'symbols': []}",0.0
-484,ObjectId(60995a43b936924605203e1a),2021-05-10 15:57:52,dia pedir poder nada,['Nubank'],𝔤𝔥𝔬𝔰𝔱 𝔠𝔦𝔱𝔶,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-485,ObjectId(60995a43b936924605203e1d),2021-05-10 15:59:20,cobrar morde bota bermuda entender explicar pfv,['Nike'],Perguntei?,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'JoJoneS61', 'name': 'Acervo Vivizinha Br (JoJoneS 🐌)', 'id': 859195792338374656, 'id_str': '859195792338374656', 'indices': [0, 10]}], 'symbols': []}",0.0
-486,ObjectId(60995a43b936924605203e22),2021-05-10 16:00:13,dinheiro plmdds reais,['Nubank'],"... ! ginny & luna ? oh right they're my daily dose of serotonin, i LOVE them ¡!","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-491,ObjectId(60995a43b936924605203d6b),2021-05-10 15:32:13,fazer sacola lembrar dinheiro,['SHEIN'],"Pelotas, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-492,ObjectId(60995a43b936924605203d6d),2021-05-10 15:32:17,tocar mês poder gastar salário roupa,['SHEIN'],"Maringá, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Fernandalves25', 'name': 'fer', 'id': 1035733104982409216, 'id_str': '1035733104982409216', 'indices': [0, 15]}], 'symbols': []}",0.0
-493,ObjectId(60995a43b936924605203d90),2021-05-10 15:37:39,mathiasrb ô loco limpa,['Coca-cola'],"Porto Alegre, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'mathiasrb', 'name': 'Mathias Caño', 'id': 211029551, 'id_str': '211029551', 'indices': [0, 10]}], 'symbols': []}",0.0
-495,ObjectId(60995a43b936924605203da5),2021-05-10 15:40:37,roupinhas chegar vo matar,['Nike'],Farroupilha - RS,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-496,ObjectId(60995a43b936924605203db5),2021-05-10 15:45:21,nunca dor cabeça,['Xiaomi'],⠀⠀ ⠀  ⠀⠀    ⊹ ⋆ﾟ꒰ఎ ♡ ໒꒱ ⋆ﾟ⊹,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-498,ObjectId(60995a43b936924605203dc6),2021-05-10 15:47:03,impressão problemas processar pagamentos,['Nubank'],Rio de Janeiro - Brasil,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [21, 28]}], 'symbols': []}",0.0
-501,ObjectId(60995a43b936924605203de7),2021-05-10 15:52:24,lj_gfbpa certeza,['Nike'],"Curitiba, Brazil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'lj_gfbpa', 'name': 'LJ🇪🇪', 'id': 1338188036216074240, 'id_str': '1338188036216074240', 'indices': [0, 9]}], 'symbols': []}",0.0
-502,ObjectId(60995a43b936924605203dfa),2021-05-10 15:54:56,perguntar fdp dar,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-503,ObjectId(60995a43b936924605203e05),2021-05-10 15:54:53,futebol_info ataquemarketing ah tricolor fechar,['Nike'],"São Paulo, SP","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'futebol_info', 'name': 'Planeta do Futebol 🌎', 'id': 193500696, 'id_str': '193500696', 'indices': [0, 13]}, {'screen_name': 'AtaqueMarketing', 'name': 'Ataque Marketing Esportivo', 'id': 121522082, 'id_str': '121522082', 'indices': [14, 30]}], 'symbols': []}",0.0
-505,ObjectId(60995a43b936924605203e3a),2021-05-10 16:02:38,obg,['SHEIN'],maclaren's pub,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-508,ObjectId(60995a43b936924605203d13),2021-05-10 15:21:24,deus céu deixar pagar boletos amor sistema completamente lento travar,['Nubank'],Rio de Janeiro,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [16, 23]}], 'symbols': []}",0.0
-515,ObjectId(60995a43b936924605203d88),2021-05-10 15:36:45,cérebro preciso entender acesso brás divi site live conjunto fit,['Nike'],"Lagoa da Prata, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-518,ObjectId(60995a43b936924605203d91),2021-05-10 15:37:42,saber coisa celular nunca pqp começo amar agora pura porcaria miui,['Xiaomi'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-520,ObjectId(60995a43b936924605203d99),2021-05-10 15:39:18,boy usar coisa falir des,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-522,ObjectId(60995a43b936924605203da1),2021-05-10 15:40:12,finalmente achar troxa pagar carrinho,['SHEIN'],Itabira,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-525,ObjectId(60995a43b936924605203dbe),2021-05-10 15:45:27,primeira compra chegar querer segunda chegue,['SHEIN'],"Los Angeles, CA","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-528,ObjectId(60995a43b936924605203dd1),2021-05-10 15:48:03,_ erickjunio padrão feia doer,['Nike'],🔺,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': '_erickjunio', 'name': 'Erick', 'id': 1493061656, 'id_str': '1493061656', 'indices': [0, 12]}], 'symbols': []}",0.0
-529,ObjectId(60995a43b936924605203dd7),2021-05-10 15:49:14,coloco carrinho,['SHEIN'],📍018,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-530,ObjectId(60995a43b936924605203de8),2021-05-10 15:52:15,_ erickjunio perder umbro,['Nike'],🔺,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': '_erickjunio', 'name': 'Erick', 'id': 1493061656, 'id_str': '1493061656', 'indices': [0, 12]}], 'symbols': []}",0.0
-531,ObjectId(60995a43b936924605203dd8),2021-05-10 15:50:33,maluzenhx minar usar allstar querer falar kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'maluzenhx', 'name': 'maluzita ☽☾', 'id': 1175402939244003329, 'id_str': '1175402939244003329', 'indices': [0, 10]}], 'symbols': []}",0.0
-533,ObjectId(60995a43b936924605203ddc),2021-05-10 15:50:17,brotar brotar versace,['Nike'],sm - rs🌴,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-536,ObjectId(60995a43b936924605203e09),2021-05-10 15:57:22,app abrir,['Nubank'],"São Luís, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-538,ObjectId(60995a43b936924605203e25),2021-05-10 15:59:14,futebol_info ataquemarketing atlético nacional,['Nike'],27,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'futebol_info', 'name': 'Planeta do Futebol 🌎', 'id': 193500696, 'id_str': '193500696', 'indices': [0, 13]}, {'screen_name': 'AtaqueMarketing', 'name': 'Ataque Marketing Esportivo', 'id': 121522082, 'id_str': '121522082', 'indices': [14, 30]}], 'symbols': []}",0.0
-539,ObjectId(60995a43b936924605203e31),2021-05-10 16:01:27,simplesmente deixar pagar pedir,['Nubank'],Looking at the same moon as we speak I always hope you’re happy I say to the night sky till it wears away just listen to me for one more day,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-541,ObjectId(60995a43b936924605203e36),2021-05-10 16:02:21,renjunglittr deixar ter cartão,['Nubank'],仁俊 ♥︎ 锟 ♥︎ 扬扬,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'renjunglittr', 'name': 'ʀ ʜ ᴀ ʏ ☀️ THE MOON', 'id': 942929914843549696, 'id_str': '942929914843549696', 'indices': [0, 13]}], 'symbols': []}",0.0
-542,ObjectId(60995a43b936924605203e42),2021-05-10 16:04:02,nunca tomar vida passar mal dor estômago,['Coca-cola'],eve,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-544,ObjectId(60995a43b936924605203e4a),2021-05-10 16:04:56,foder agora status salário ap compras,['SHEIN'],Brasil,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-548,ObjectId(60995a43b936924605203d46),2021-05-10 15:26:47,raissahr amiga atual precisar maior,['Nubank'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'raissahr', 'name': 'Roteirista premiada no Raiverso', 'id': 1329129798086631432, 'id_str': '1329129798086631432', 'indices': [0, 9]}], 'symbols': []}",0.0
-551,ObjectId(60995a43b936924605203d7a),2021-05-10 15:34:18,fêmea continuar diminuir qm usar cropped short lindar amo estilo diferenciar,['SHEIN'],"Cajati, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'volality', 'name': 'Lollitisia', 'id': 815236379856830464, 'id_str': '815236379856830464', 'indices': [3, 12]}], 'symbols': []}",0.0
-552,ObjectId(60995a43b936924605203d7c),2021-05-10 15:34:29,banco inter mil vezes melhor dúvidas,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-553,ObjectId(60995a43b936924605203d82),2021-05-10 15:35:21,mo vontade vender shorts saia,['Nike'],baixada sancria,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-555,ObjectId(60995a43b936924605203d97),2021-05-10 15:39:12,junioraas achar raciocínio procede deixar boca internacional europa alguns anos deixar united juventus city porto tempo gastar tubos manter barcelona sinceramente conseguir entender estratégia,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'mfsant', 'name': 'Marcos SANTOS', 'id': 55060766, 'id_str': '55060766', 'indices': [3, 10]}, {'screen_name': 'junioraas', 'name': 'Júnior-AAS', 'id': 216738628, 'id_str': '216738628', 'indices': [12, 22]}, {'screen_name': 'RodrigoBuenoTV', 'name': 'Rodrigo Bueno', 'id': 45385616, 'id_str': '45385616', 'indices': [23, 38]}], 'symbols': []}",0.0
-556,ObjectId(60995a43b936924605203da3),2021-05-10 15:40:26,roupas masculinas dessa moh graça preferir brechozao mainha,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-558,ObjectId(60995a43b936924605203e08),2021-05-10 15:57:02,querer medo tmb kkkkkkkkk,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'loureno6duda', 'name': 'Eduarda', 'id': 1010578923040669696, 'id_str': '1010578923040669696', 'indices': [0, 13]}], 'symbols': []}",0.0
-560,ObjectId(60995a43b936924605203e1f),2021-05-10 16:00:01,conseguir redefinir senha,['Nubank'],"Fortaleza, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [44, 51]}], 'symbols': []}",0.0
-563,ObjectId(60995a43b936924605203e32),2021-05-10 16:01:38,ver henna morro medo ficar dois símbolos caro,['Nike'],Itaiópolis,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-564,ObjectId(60995a43b936924605203e3c),2021-05-10 16:02:36,diegosudariop shox mola,['Nike'],"Parobé, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'diegosudariop', 'name': '🇲🇨🇪🇦Parça do Neymar🇪🇦 🇲🇨', 'id': 3070642708, 'id_str': '3070642708', 'indices': [0, 14]}], 'symbols': []}",0.0
-567,ObjectId(60995a43b936924605203e53),2021-05-10 16:05:37,reporterlacerda estranho poucos clubes comodismo proposto ruim ninguém querer,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'reporterlacerda', 'name': 'Carlos Lacerda', 'id': 152462302, 'id_str': '152462302', 'indices': [0, 16]}], 'symbols': []}",0.0
-568,ObjectId(60995a43b936924605203d10),2021-05-10 15:21:13,vsf court vision idêntico air force,['Nike'],͏͏ ͏          ͏͏ ͏,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-569,ObjectId(60995a43b936924605203d08),2021-05-10 15:20:24,opedrinkkj trocar chuteira achar mtooo melhor bola foder,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'SpfcFrustraca0', 'name': 'SPFC DA FRUSTRAÇÃO', 'id': 1196902371600863232, 'id_str': '1196902371600863232', 'indices': [0, 15]}, {'screen_name': 'OPedrinkkj', 'name': 'Pedroˢᵖᶠᶜ🦊🇾🇪🧙\u200d♂️', 'id': 1355986957369827337, 'id_str': '1355986957369827337', 'indices': [16, 27]}], 'symbols': []}",0.0
-572,ObjectId(60995a43b936924605203d16),2021-05-10 15:21:39,cerolzera ia começar chorar falaria boquinha boa contrata fx,['Nike'],"Maranhão, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'CEROLZERA', 'name': 'Cerol', 'id': 1216971385777664005, 'id_str': '1216971385777664005', 'indices': [0, 10]}], 'symbols': []}",0.0
-573,ObjectId(60995a43b936924605203d1a),2021-05-10 15:22:07,felipevinha mãe conseguir,['Nubank'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'felipevinha', 'name': 'Vinha', 'id': 15201438, 'id_str': '15201438', 'indices': [0, 12]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [13, 20]}], 'symbols': []}",0.0
-574,ObjectId(60995a43b936924605203d20),2021-05-10 15:22:28,literalmente mundo empresa sair fumar saio halls kkkkkkk vício caralho,['Coca-cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-575,ObjectId(60995a43b936924605203d29),2021-05-10 15:23:00,tmncu fight ir bem olhar time inimigo ver boot jogar,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'titannlol1', 'name': 'Alexandre Lima', 'id': 2620241166, 'id_str': '2620241166', 'indices': [0, 11]}], 'symbols': []}",0.0
-576,ObjectId(60995a43b936924605203d64),2021-05-10 15:31:25,tempo abandonar clubes america tao focar grandes europa tipo barcelona,['Nike'],crf,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'RodrigoBuenoTV', 'name': 'Rodrigo Bueno', 'id': 45385616, 'id_str': '45385616', 'indices': [0, 15]}], 'symbols': []}",0.0
-577,ObjectId(60995a43b936924605203d84),2021-05-10 15:35:30,preciso parar tomar,['Coca-cola'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-579,ObjectId(60995a43b936924605203dc0),2021-05-10 15:45:41,má influência certo,['Nike'],Niterói,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'xodozinho04', 'name': 'xodó😼', 'id': 1365811495855140874, 'id_str': '1365811495855140874', 'indices': [0, 12]}, {'screen_name': 'Juanziin10', 'name': 'soneca', 'id': 1306147035721195521, 'id_str': '1306147035721195521', 'indices': [13, 24]}], 'symbols': []}",0.0
-580,ObjectId(60995a43b936924605203dc5),2021-05-10 15:47:07,aumentar namoral,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [22, 29]}], 'symbols': []}",0.0
-581,ObjectId(60995a43b936924605203dc9),2021-05-10 15:47:45,demorar tanto comprinhas agr nada mai novidade mundo parecer renner,['SHEIN'],São Paulo - SP,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-585,ObjectId(60995a43b936924605203e17),2021-05-10 15:59:04,tristeza chegar roupa ficar bom,['SHEIN'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-587,ObjectId(60995a43b936924605203e1e),2021-05-10 15:59:28,sair sozinho conta agr consigo entrar enviar mail senha,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-592,ObjectId(60995a43b936924605203d0e),2021-05-10 15:21:05,tiktokbrasil cadê conto mandar favor né dias depositar osso,['Nubank'],Natal,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'TikTokBrasil', 'name': 'TikTok Brasil', 'id': 897168370742812672, 'id_str': '897168370742812672', 'indices': [0, 13]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [51, 58]}], 'symbols': []}",0.0
-594,ObjectId(60995a43b936924605203d3b),2021-05-10 15:24:49,vez enganar tecer roupas,['SHEIN'],Lagoa santa MG,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-595,ObjectId(60995a43b936924605203d3f),2021-05-10 15:24:58,mussumalive doido entrar nessa preços absurdo,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'MussumAlive', 'name': 'Leandro Santos | Mussum Alive', 'id': 20771988, 'id_str': '20771988', 'indices': [0, 12]}], 'symbols': []}",0.0
-596,ObjectId(60995a43b936924605203d45),2021-05-10 15:26:27,compras nao chegar ainda chorar,['SHEIN'],"Caçapava, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-602,ObjectId(60995a43b936924605203d85),2021-05-10 15:36:09,app nunca conseguir ler código barras boleto,['Nubank'],"Sao Paulo, Brazil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-603,ObjectId(60995a43b936924605203d8f),2021-05-10 15:37:20,diabitta roupa aliexpress querer reclamar,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'diabitta', 'name': '𝚌𝚊𝚛𝚘𝚕', 'id': 767050286, 'id_str': '767050286', 'indices': [0, 9]}], 'symbols': []}",0.0
-604,ObjectId(60995a43b936924605203d9a),2021-05-10 15:39:40,respeitar mlk intitular boy kkkkkkk,['Nike'],"Santos, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-613,ObjectId(60995a43b936924605203e01),2021-05-10 15:55:13,poder poder renner poder amp novo conceito vestir folha bananeira,['SHEIN'],sitcom lovebot 🏡,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-614,ObjectId(60995a43b936924605203e10),2021-05-10 15:56:38,demora contestar pagamento dias,['Nubank'],MEU PAÍS ESPÍRITO SANTO,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [21, 28]}], 'symbols': []}",0.0
-615,ObjectId(60995a43b936924605203e19),2021-05-10 15:59:00,sair futebol poucos,['Nike'],"Teresópolis, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'RodrigoBuenoTV', 'name': 'Rodrigo Bueno', 'id': 45385616, 'id_str': '45385616', 'indices': [0, 15]}], 'symbols': []}",0.0
-616,ObjectId(60995a43b936924605203e34),2021-05-10 16:01:27,baixei pqqqqqq alguém tirar,['SHEIN'],"São Paulo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-617,ObjectId(60995a43b936924605203e44),2021-05-10 16:03:54,min telefone resolver total coisas,['Nubank'],"Brasília, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-619,ObjectId(60995a43b936924605203d25),2021-05-10 15:22:45,sdds time sendo patrocinar,['Nike'],21,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'RodrigoBuenoTV', 'name': 'Rodrigo Bueno', 'id': 45385616, 'id_str': '45385616', 'indices': [0, 15]}], 'symbols': []}",0.0
-620,ObjectId(60995a43b936924605203d4f),2021-05-10 15:27:54,porque time lenir cheio anuncio pobre nao poder,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-621,ObjectId(60995a43b936924605203d61),2021-05-10 15:30:45,deus horrível pagar boleto pqp demora ainda erro toda hora,['Nubank'],"São Paulo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-622,ObjectId(60995a43b936924605203d8e),2021-05-10 15:37:22,fazer compra valor alto cagar medo taxar,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-624,ObjectId(60995a43b936924605203dad),2021-05-10 15:43:53,hello conhecer saber alguma regrinha sobre taxas compra but medo taxar,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-629,ObjectId(60995a43b936924605203dfd),2021-05-10 15:55:24,namorada preferência,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'npadryel', 'name': 'Pinoᶜʳᶠ 𝚞𝚛𝚊𝚖𝚎𝚣 ‘‘ZEBRA’’', 'id': 940740498515464197, 'id_str': '940740498515464197', 'indices': [3, 12]}], 'symbols': []}",0.0
-631,ObjectId(60995a43b936924605203e0b),2021-05-10 15:57:26,aplicativo instável carregar nada,['Nubank'],"Fortaleza, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
-636,ObjectId(60995a43b936924605203e46),2021-05-10 16:04:31,imaginar realmente ficar puto usar junto,['Nike'],sp,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-637,ObjectId(60995a43b936924605203e48),2021-05-10 16:04:10,miojo,['Coca-cola'],21,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-639,ObjectId(60995a43b936924605203e52),2021-05-10 16:05:05,aparecer calça jogger puta parir coisa feia,['SHEIN'],Manaus,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-640,ObjectId(60995a43b936924605203d23),2021-05-10 15:22:43,espremer universitário final semestre sair caldo preto mistura café ódio,['Coca-cola'],"Manaus, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-649,ObjectId(60995a43b936924605203df3),2021-05-10 15:54:01,medo calça taxar,['SHEIN'],"Jacarepaguá, Rio de Janeiro","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-651,ObjectId(60995a43b936924605203dfb),2021-05-10 15:55:27,membro,['Nike'],"Paranaguá, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-652,ObjectId(60995a43b936924605203e02),2021-05-10 15:54:52,querer abrir acho sinal manga tentar vez abrir compro,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-654,ObjectId(60995a43b936924605203e13),2021-05-10 15:58:33,souojuao golpe kkkkkkkkkkkkk,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'souojuao', 'name': 'João', 'id': 3373096785, 'id_str': '3373096785', 'indices': [0, 9]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [10, 17]}], 'symbols': []}",0.0
-655,ObjectId(60995a43b936924605203e14),2021-05-10 15:58:37,filha puta pedir sair lugar desde maio perder dinheiro ficar puta,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-656,ObjectId(60995a43b936924605203e18),2021-05-10 15:58:18,alô pagar boletos app deixar,['Nubank'],"Porto Alegre, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [4, 11]}], 'symbols': []}",0.0
-658,ObjectId(60995a43b936924605203d0d),2021-05-10 15:20:56,dever andar dinheiro brincar,"['Nike', 'SHEIN']","Ilha de França, França","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-659,ObjectId(60995a43b936924605203d40),2021-05-10 15:25:20,entender aumentar cartão,['Nubank'],ZN,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-663,ObjectId(60995a43b936924605203d65),2021-05-10 15:31:28,roubar dinheiro,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'lucksdelux', 'name': 'Luckzera', 'id': 1178389664039919617, 'id_str': '1178389664039919617', 'indices': [3, 14]}], 'symbols': []}",0.0
-664,ObjectId(60995a43b936924605203d70),2021-05-10 15:32:57,shoppe amazon areas extremamente perigosas,['SHEIN'],62,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-665,ObjectId(60995a43b936924605203d74),2021-05-10 15:33:25,alguém problema pagar boleto negócio concluir,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-670,ObjectId(60995a43b936924605203e47),2021-05-10 16:04:34,uso tênis calçar foda,['Nike'],sp,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-672,ObjectId(60995a43b936924605203d14),2021-05-10 15:21:30,i fazer bico fazer compra conto duas semanas dispensar,['SHEIN'],011 Capital das Nota$,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-674,ObjectId(60995a43b936924605203d36),2021-05-10 15:24:21,chegar notificacao achar receber,['Nubank'],horror spunk —–· ela/dela,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-680,ObjectId(60995a43b936924605203d8d),2021-05-10 15:37:09,apple,['Nubank'],SP,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}, {'screen_name': 'ygorsf1997', 'name': 'ygor francisco', 'id': 2857344051, 'id_str': '2857344051', 'indices': [8, 19]}, {'screen_name': 'Apple', 'name': 'Apple', 'id': 380749300, 'id_str': '380749300', 'indices': [20, 26]}], 'symbols': []}",0.0
-683,ObjectId(60995a43b936924605203dd9),2021-05-10 15:51:10,coco,['Nubank'],"Engenho Novo, Rio de Janeiro","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-684,ObjectId(60995a43b936924605203de6),2021-05-10 15:52:17,irma comer miojo tomar deus coitado estomago,['Coca-cola'],"Belo Horizonte, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-686,ObjectId(60995a43b936924605203dfe),2021-05-10 15:56:08,teste caráter,['Nike'],"Manhuaçu, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-688,ObjectId(60995a43b936924605203e0f),2021-05-10 15:56:38,dragooncrf pezin acostumar,['Nike'],5551,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'dragooncrf', 'name': 'dragonᶜʳᶠ', 'id': 1261365684770136064, 'id_str': '1261365684770136064', 'indices': [0, 11]}], 'symbols': []}",0.0
-689,ObjectId(60995a43b936924605203e43),2021-05-10 16:03:51,opinião faturas confusas pago fatura anterior pagamento aparecer próxima fatura,['Nubank'],13,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-690,ObjectId(60995a43b936924605203e4d),2021-05-10 16:05:20,patrickallan tirodicanto melhor grupo clubes,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'patrickallan', 'name': 'Patrick Menin', 'id': 133537628, 'id_str': '133537628', 'indices': [0, 13]}, {'screen_name': 'TiroDiCanto', 'name': 'Tiro de Canto', 'id': 820686384302268416, 'id_str': '820686384302268416', 'indices': [14, 26]}], 'symbols': []}",0.0
-692,ObjectId(60995a43b936924605203d2f),2021-05-10 15:23:24,magalzaoshow muita experimenta pepsi vez qnd referir refrigerante,['Coca-cola'],Infelizmente,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'magalzaoshow', 'name': 'Magal', 'id': 33517656, 'id_str': '33517656', 'indices': [0, 13]}], 'symbols': []}",0.0
-693,ObjectId(60995a43b936924605203d34),2021-05-10 15:23:53,app testar paciência,['Nubank'],"Guararapes, interior de SP","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-695,ObjectId(60995a43b936924605203d49),2021-05-10 15:27:16,cartomaniacosfc nunca demonstrar interessada entrar território sul americano,['Nike'],Niterói,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'cartomaniacosfc', 'name': 'Cartomaniacos FC', 'id': 1151188151479787520, 'id_str': '1151188151479787520', 'indices': [0, 16]}], 'symbols': []}",0.0
-698,ObjectId(60995a43b936924605203d68),2021-05-10 15:31:35,hfcoradini assim,['Coca-cola'],"Minas Gerais, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'hfcoradini', 'name': 'Nacho', 'id': 1081227367803248641, 'id_str': '1081227367803248641', 'indices': [0, 11]}], 'symbols': []}",0.0
-703,ObjectId(60995a43b936924605203db0),2021-05-10 15:43:37,umatleticano _ _ mesma coisas,['Nike'],"Ipatinga, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'UmAtleticano__', 'name': 'Atleticano tweetou ®', 'id': 2752913065, 'id_str': '2752913065', 'indices': [0, 15]}], 'symbols': []}",0.0
-704,ObjectId(60995a43b936924605203db2),2021-05-10 15:44:38,saber problema,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-705,ObjectId(60995a43b936924605203db6),2021-05-10 15:46:36,cara espírito consumista saia querer importar socorro,['Nike'],Me chamou de hopi Hari,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-707,ObjectId(60995a43b936924605203dba),2021-05-10 15:46:49,criatura fazer pedir ubereats causa,['Coca-cola'],"New Jersey, USA","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-714,ObjectId(60995a43b936924605203df7),2021-05-10 15:52:40,precisar pagar conta app carregar,['Nubank'],"Curvelo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [37, 44]}], 'symbols': []}",0.0
-715,ObjectId(60995a43b936924605203df9),2021-05-10 15:53:10,pedir shopee chegar,['SHEIN'],デッド,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-719,ObjectId(60995a43b936924605203e30),2021-05-10 16:01:54,nao conseguir pagar boleto achar sinal gastar dinheiro,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-722,ObjectId(60995a43b936924605203d17),2021-05-10 15:21:43,cocacola_br brasil triste cidade restaurantes participantes mandar mimo,['Coca-cola'],"Três Lagoas, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'CocaCola_Br', 'name': 'Coca-Cola Brasil', 'id': 255537739, 'id_str': '255537739', 'indices': [0, 12]}], 'symbols': []}",0.0
-724,ObjectId(60995a43b936924605203d32),2021-05-10 15:23:37,tomqr vez dia viro bixo,['Coca-cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-729,ObjectId(60995a43b936924605203da0),2021-05-10 15:40:12,obrigada meses abandonar,['Nike'],"Sant'Ana do Livramento, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-730,ObjectId(60995a43b936924605203dac),2021-05-10 15:43:56,semanas esperar capinhas trouxa,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}",0.0
-731,ObjectId(60995a43b936924605203db9),2021-05-10 15:46:48,veste time pequeno,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'RodrigoBuenoTV', 'name': 'Rodrigo Bueno', 'id': 45385616, 'id_str': '45385616', 'indices': [0, 15]}], 'symbols': []}",0.0
-732,ObjectId(60995a43b936924605203dc3),2021-05-10 15:47:10,bater bola ovo prometer crédito agora nada,['Nubank'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}",0.0
+,tweet_content,keyword,user_location,classified
+0,mds nunca liberar,['Nubank'],Goiânia,0.0
+2,toda vez vejo lá conferir saldo certo juro traumatizar histórias roubar dinheiro,['Nubank'],None,0.0
+7,rodrigolps _ caso observo aumentar juros dívida,['Nubank'],🏳️‍🌈,0.0
+8,msswx processo nele,['Nubank'],Macaé,0.0
+12,gastar cueca calvin klein,['Nike'],Hell not Helsinki,0.0
+14,parar comer besteira logo dps café manhã bis,['Coca-cola'],None,0.0
+18,tipo parada falar furia gatorade plano raiz além bagulho sm,['Nike'],None,0.0
+19,ódio poder aprovar crédito quê,['Nubank'],None,0.0
+30,generoso deixar povo endividar pagar juros lindar sqn,['Nubank'],None,0.0
+32,aumento dar gatilho,['Nubank'],"Pindamonhangaba, Brasil",0.0
+37,achar vestir odio,['SHEIN'],"Salvador, Brasil",0.0
+42,aquellos hombres tiempo antes llegara mi pedido ignoraron sepan ahora estoy mi cima ha llegado mi pedir estoy ellos si estuviste las malas antes tendras lugar las buenas después,['SHEIN'],None,0.0
+46,deszanti ardido geralmente depender,['Nike'],"Guarulhos, Iraque",0.0
+47,nunca aumentar,['Nubank'],Aldeia da Folha 🍃,0.0
+50,vir topo vir correr ver apple pay agilizar né apple,['Nubank'],"Goiânia, Brasil",0.0
+51,akbilbo drx paia dms roubar,['Nike'],031💸Ced,0.0
+54,amo aumentar emprego,['Nubank'],None,0.0
+55,mundo ganhar aumento tendo pedir aumento recusar,['Nubank'],rio de janeiro,0.0
+57,golpe seguir golpe outros cartões crédito fundo precisar aprender aulas arcuri,['Nubank'],"Campina Grande, Brasil",0.0
+58,preferir zz câmera poder perder iphone bateria dia,['Xiaomi'],"Contagem, Brasil",0.0
+63,anos nunca aumentar centavo,['Nubank'],None,0.0
+64,entao aumentar varios limites ate renda renda pagar dia nao fdp,['Nubank'],Red Room,0.0
+67,sedento pontos,['SHEIN'],Guilherme 👼🏽🥀🖤,0.0
+68,tomar cu taxa sacar dinheiro,['Nubank'],"Londrina, Brasil",0.0
+69,apostar banrisul dar maior pedir,['Nubank'],Porto Alegre -RS,0.0
+72,joarlens rapaz afrontar sentir menosprezar,['Nubank'],None,0.0
+73,sustentar gracinha,['Nubank'],"Vila Valério, Brasil",0.0
+74,pestanaskrr toda,['Coca-cola'],death star,0.0
+76,primeira ficada pedir blusa,['Nike'],"Vila Velha, Brasil",0.0
+77,ameaçar bloquear cartão pagar fatura,['Nubank'],None,0.0
+78,assim aumentar outros nada,['Nubank'],Brasil,0.0
+80,mundo ganhar aumento tendo pedir aumento recusar,['Nubank'],Brasil,0.0
+82,simplesmente odiar,['Nubank'],None,0.0
+84,receber encomenda finalmente acertar tamanhos coleira mandar lord pequena nunca acerto,['SHEIN'],Setúbal,0.0
+86,poxa anos anos pontuais sido agraciar nenhuma,['Nubank'],Mariana-Mg,0.0
+88,humilhação pobre aumento nada,['Nubank'],None,0.0
+92,aumentar geral,['Nubank'],"Rio de Janeiro, Brasil",0.0
+95,ater tirar dúvida,['Nubank'],None,0.0
+98,vamos concordar banco inter melhor banco servir render centavos sacar ver absurdo,['Nubank'],"Macapá, Brasil",0.0
+104,alto trabalhar,['Nubank'],None,0.0
+105,falar melhoraria alimentação semana eis tomar café manhã,['Coca-cola'],None,0.0
+106,acaso mulheres acabar baixar aparecer coisa feminina,['SHEIN'],"Itu, Brasil",0.0
+112,_ joaopgatti sophiaemanuella pedir aumento aumentar pruma espécie final fila,['Nubank'],"Sunyshore City, Sinnoh",0.0
+118,alguem ajudar,['Nubank'],Lomas de zamora,0.0
+119,amazonilio daddy dar academia tênis,['Nike'],sei não ó,0.0
+120,achar compras perder caminho caminhão capotar perder,['SHEIN'],None,0.0
+121,pedir trânsito enrolar,['SHEIN'],CRVG,0.0
+122,comprar toda semana neh burguêsa safar,['SHEIN'],1994,0.0
+124,achar precisar deixar nome spc dever agiotar perder casa jogo azar,['Nubank'],"zona leste, sp",0.0
+125,adiirjr sim falir android adir pira poder,['Xiaomi'],"Blumenau, Brasil",0.0
+128,piada,['Nubank'],None,0.0
+129,aumentar nunk,['Nubank'],"Rio de Janeiro, Brasil",0.0
+131,entro site pergunto rico,['Nike'],None,0.0
+132,sofrer achar jaqueta nba,['Nike'],21,0.0
+133,tipo mentos tamos explodir,['Coca-cola'],Cuba,0.0
+134,xbabimonteiro acordar lindo mensagem porém aumento reais piar,['Nubank'],Brasília,0.0
+136,shouyoplcs perfume jogador lol,['Boticário'],dc: Naomi Aiko#4324    (ela/u),0.0
+137,aumentar aumentar salário foda,['Nubank'],"Rio Grande do Sul, Brasil",0.0
+140,pedir uso pagar sempre dia utilizar outros cartões porque suportar gastos poxinha,['Nubank'],Rio de Janeiro,0.0
+148,vejo imaginar merda vez,['Nubank'],None,0.0
+149,parar porra descontar retira dinheiro caixa,['Nubank'],None,0.0
+151,lojinhas insta compra roupa vender produção exclusiva,['SHEIN'],clareira na mata - 012,0.0
+157,trendings aumento abrir app atoa,['Nubank'],"Vitória, ES",0.0
+161,aumento mundo continuar zero tendo usar temporário,['Nubank'],My Bieber Experience,0.0
+162,ver mundo receber coisas ontem menos,['SHEIN'],Brasil,0.0
+165,ódio anal site dunkzinho,['Nike'],Brazil,0.0
+166,dearschafer vidar ter crédito crédito melhor vista né dona,['Nubank'],None,0.0
+167,tempo irmao,['Nubank'],"Anápolis, 🇧🇷",0.0
+168,eeeeguas deixar,['Nubank'],"São Luís, Brasil",0.0
+174,aumentar crédito mundo bobo incrível zero reais né,['Nubank'],My Bieber Experience,0.0
+176,cadê aumento,['Nubank'],"Brasília, Brasil",0.0
+177,nunca aumentar bosta,['Nubank'],"Contagem, Brasil",0.0
+181,sirati_joao caralho empresta,['Nubank'],None,0.0
+182,alô aumentar aiii,['Nubank'],None,0.0
+183,amo odeio,['Nike'],MS,0.0
+186,oq aumentar mundo menos gastar filha puta,['Nubank'],South Africa,0.0
+187,aumentaaaa limiteeeeeee,['Nubank'],Ovelhas negras,0.0
+189,responder evitar fadiga mandar casa caralho,['Nubank'],"Duque de Caxias, Brasil",0.0
+193,esperar tanto aumento piar,['Nubank'],Brasília,0.0
+194,melhorar atendimento virtual respondam dm,['Nubank'],"Recife, Brasil",0.0
+196,promodelivro falto cartão crédito aprovar menos desisti vida,['Nubank'],"Pernambuco, Brasil",0.0
+198,site grande lixo,['Nike'],"Itapetininga, Brasil",0.0
+200,tomar cu site caralho ver odio,['Nike'],"Guarujá, Brasil",0.0
+202,pagar fatura vencer dia bem adiantar percebe fazer ganhar aumento,['Nubank'],"Porciúncula, Brasil",0.0
+205,cartão nunca chegar,['Nubank'],None,0.0
+206,crisvector uso pumabrasil hahhahaa nazi nunca enganar,['Nike'],"São José dos Campos, Brasil",0.0
+209,dever tirar cara liberar cartão crédito,['Nubank'],None,0.0
+215,pedir aumento ontem dar agora entro twitter mundo ganhar,['Nubank'],None,0.0
+217,xlauralima pleasenat iria anos cartão mundo falir demora séculos,['Nubank'],"Rio de Janeiro, Brasil",0.0
+221,namoral aumentar disgraça ter inter msm porra,['Nubank'],"Salvador, Brasil",0.0
+222,mundo ganhar aumento tendo pedir aumento recusar,['Nubank'],"Piauí, Brasil",0.0
+225,agora aumentou poder pagar imaginar,['Nubank'],"Recife, Pernambuco",0.0
+227,taxa saque,['Nubank'],Davi Luís 💙,0.0
+231,última vez traviscote fazer música boa logo ainda certo,['Nike'],"Curitiba, Brasil",0.0
+232,dia difícil taxada,['SHEIN'],"Itabira, Brasil",0.0
+233,mês cancelar force agora subir preço odeio odeio,['Nike'],"Indaiatuba, Brasil",0.0
+235,marabacarlos fazer la mix mateus dar certo drx kkkkkkkj,['Nubank'],"Tucuruí, Brasil",0.0
+237,boonbap desde janeiro tentar desbloquear cartão alar,['Nubank'],"Rio de Janeiro, Brasil",0.0
+241,fêmea continuar diminuir qm usar cropped short lindar amo estilo diferenciar,['SHEIN'],"Passos, Brasil",0.0
+242,ia perder pontos á pala ellen passar durante conseguir volta,['SHEIN'],None,0.0
+243,dinheiro,['Nubank'],goias,0.0
+252,poder brincadeira cara,['Nubank'],None,0.0
+256,email recargar celular email dizer convidar testar apple pay roxo,['Nubank'],"Mendes, Brasil",0.0
+260,brendinhakonig esquecer,['Nike'],"Lorena, Brasil",0.0
+261,negar compra exceder kkkkkkkkkkkkkk,['Nubank'],None,0.0
+264,amo problema deixar sacar pagar taxa obrigar abrir contar lugar,['Nubank'],None,0.0
+265,mauriciocola incrível sente prazer cagar camisas aproveitamento impressionante,['Nike'],"Maceió, Brasil",0.0
+268,comprar paciência nenhuma espera,['SHEIN'],Deprelândia - lagrimas,0.0
+271,shorts jeans misericórdia kkkkkkkkkkk,['SHEIN'],"Rio de Janeiro, Brasil",0.0
+273,horror professor usar junto,['Nike'],"Campina Grande, Brasil",0.0
+277,mariaaa_juulia cadê roupas,['SHEIN'],"Paraná, Brasil",0.0
+279,amaralgusman amo saber perder dinheiro irrita nível,['Nubank'],"Camaçari, Brasil",0.0
+281,beber rato,['Coca-cola'],"Coronel Fabriciano, Brasil",0.0
+283,ficar fria pagar,['Nubank'],Diadema SP,0.0
+285,marcoslonguini europa fraca vários times pontar usar,['Nike'],Itapevi - SP,0.0
+287,sonho acabar logo contrato corinthians,['Nike'],‏زكواد,0.0
+288,_ padueli ricardomenezess ver preço camisa reais,['Nike'],None,0.0
+289,cadê corinthians,['Nike'],Minha Casa,0.0
+292,maxsepz porra usar pcr kkkkkk,['Nike'],aracaju,0.0
+293,espremer universitário final semestre sair caldo preto mistura café ódio,['Coca-cola'],None,0.0
+294,parecer querer envolver time futebol querer tradicionais msm,['Nike'],"Cariacica, ES",0.0
+297,fazer cancelar contar uso tanto tempo sair lugar,['Nubank'],Recife,0.0
+299,ótimo resolver ficar instável bem dia pagar boleto,['Nubank'],None,0.0
+300,suplicar ajuda porque correr risco vidar preciso ajudar medicamentos saber aguentar forte pix pessoa gmail picpay nahnathy itau agência contar,['Nubank'],Hogsmeade,0.0
+301,ent preferir,['Nike'],"Santa Catarina, Brasil",0.0
+307,rato,['Coca-cola'],bh,0.0
+308,indecisa lacoste fodase gastar,['Nike'],"Tremp, España",0.0
+313,crianças pais mães ficar cima frequentar igreja trabalhar dia bocar fumo porta traficante portar fazer bonito pagar esbanjar vida boa desleal,['Coca-cola'],"Rio Branco, Acre",0.0
+318,demorar super cair pagamento pqp,['Nubank'],"Niterói, RJ",0.0
+322,comprar carrinho desânimo existencial passar,['SHEIN'],None,0.0
+323,app apresentar instabilidade algum problema plataforma dever preocupar app contar pessoal,['Nubank'],"Belém, Brasil",0.0
+329,começar mal toda vez bebo sentir dor forte barriga,['Coca-cola'],None,0.0
+330,maior roubar vida smartphone ajude,['Xiaomi'],None,0.0
+338,l_cocate gosto dms tênis feio dms,['Nike'],Guarapuava PR,0.0
+340,toda vez tomar mãe lembrar celulite desistir,['Coca-cola'],"Brasília, Brasil",0.0
+341,perder casaco flamengo,['Nike'],Angra dos Reis 🌴,0.0
+343,puto bolso comprar roupa,['SHEIN'],21,0.0
+347,pedir treco agora esperar anos chegar treco,['SHEIN'],"Cuiabá, Brasil",0.0
+349,brendinhakonig uso camisa time,['Nike'],"Praia Grande, Brasil",0.0
+351,guuuuhsantana duvidar melhor man,['Nubank'],"Guarujá, Brasil",0.0
+355,saia pedir chegar calça pedir dias antes ainda sentido,['SHEIN'],"Cuiabá, Brasil",0.0
+356,cês saber encontro blusinha gola alta ok saber enfim algum lugar vender,['SHEIN'],22,0.0
+364,luhquennehen poder assistente pagar cent dia sim trabalho escravo,['SHEIN'],Loonaverse,0.0
+367,odeio,['Nubank'],None,0.0
+372,existir missão parar tomar refrigerante fácil dar éo goat refrigerantes,['Coca-cola'],"Sete Lagoas, Brasil",0.0
+376,spfczara nunca superar ter largar,['Nike'],"São Paulo, Brasil",0.0
+385,eai soltar roupas,['SHEIN'],no mundão,0.0
+387,pare oferecer seguro vida oferecer empréstimo,['Nubank'],"Salvador, Brasil",0.0
+391,chato notificações oferendar seguro vida,['Nubank'],BH-MG,0.0
+392,vestir sula,['Nike'],"São Paulo, Brasil",0.0
+394,isabollalauck terra cropped shortinho,['SHEIN'],None,0.0
+396,daniellmrc poco phone top bateria mah,['Xiaomi'],None,0.0
+397,ressaca desgrama vei,['Coca-cola'],None,0.0
+401,cartão crédito cair dinheiro nunca va tomar cu,['Nubank'],Guaratinguetá,0.0
+402,iphone andar,['Xiaomi'],None,0.0
+406,vidalet _ v_montechiari sim camisa flamengo uruguaiana bermuda korova tênis,['Nike'],None,0.0
+408,lekinhobala dizer manos pé desculpar quebrar corrente,['Nike'],None,0.0
+411,perder noção dar alto crédito kkkkkkkkkkkkkkk,['Nubank'],"Taubaté, Brasil",0.0
+417,caralho gostar tanto chuteiras preocupar,['Nike'],"Rio de Janeiro, Brasil",0.0
+418,nao saber cansada ficar alterar senha porque esquecer,['Nubank'],Hogwarts,0.0
+422,preciso acabar vicio chamar,['Coca-cola'],"Rio de Janeiro, Brasil",0.0
+426,vei coisa chegar nunk,['SHEIN'],Mauá,0.0
+427,futebol_info ataquemarketing rapaz abandonar futebol sul americano,['Nike'],"Jacarepaguá, Rj",0.0
+430,ulttmaknae vei compras tao la dias odio unferno cu buceta,['SHEIN'],• ela/dela,0.0
+441,escolher lingeries chorar ter mto dinheiro,['SHEIN'],Protegida por Deus,0.0
+443,deixar desejar crl uniforme igual mundo,['Nike'],None,0.0
+445,desistir américa sul,['Nike'],Brasil,0.0
+446,preciso pagar boletos serviço pagamento boleto ar,['Nubank'],"blackreach, skyrim",0.0
+447,coisado,['Nubank'],Juiz de Fora,0.0
+454,app bug estranho hora pagar boletos,['Nubank'],Narnia,0.0
+455,viciar,['Coca-cola'],Rio de Janeiro,0.0
+458,mola feio vans usuário óleo sobre tela,['Nike'],"Jacaré, serra ",0.0
+462,ruim credo maldito covid tirar paixão,['Coca-cola'],lá mesmo,0.0
+463,aplicativo lento celta subir ar ligar impossível pagar boleto,['Nubank'],None,0.0
+464,jahgodomingues marcoslonguini adidasbrasil underarmourbr pumabrasil mandar bem camisa seleção,['Nike'],São Paulo/Franco da Rocha,0.0
+466,solicitar saber quantos pedidos estagiários devir odiar,['Nubank'],None,0.0
+467,gnt provar roupas ficar tds lixo,['SHEIN'],None,0.0
+472,saudável sim porra tomar copo saudável,['Coca-cola'],None,0.0
+473,escolanosense nn entender geração,['Coca-cola'],"Hawkins, Indiana",0.0
+474,blusa mochila,['Nike'],Completo da serrinha,0.0
+475,chegar encomenda casa feliz achar roupas nemm,['SHEIN'],sina is too famous for me,0.0
+476,mal entender abrir latinha,['Coca-cola'],𝐁𝐀𝐍𝐆𝐓𝐖𝐈𝐂𝐄 🍒,0.0
+482,quase certeza concentrar design deixar estagiários cuidar outros times possível,['Nike'],None,0.0
+484,dia pedir poder nada,['Nubank'],𝔤𝔥𝔬𝔰𝔱 𝔠𝔦𝔱𝔶,0.0
+485,cobrar morde bota bermuda entender explicar pfv,['Nike'],Perguntei?,0.0
+486,dinheiro plmdds reais,['Nubank'],"... ! ginny & luna ? oh right they're my daily dose of serotonin, i LOVE them ¡!",0.0
+491,fazer sacola lembrar dinheiro,['SHEIN'],"Pelotas, Brasil",0.0
+492,tocar mês poder gastar salário roupa,['SHEIN'],"Maringá, Brasil",0.0
+493,mathiasrb ô loco limpa,['Coca-cola'],"Porto Alegre, Brasil",0.0
+495,roupinhas chegar vo matar,['Nike'],Farroupilha - RS,0.0
+496,nunca dor cabeça,['Xiaomi'],⠀⠀ ⠀  ⠀⠀    ⊹ ⋆ﾟ꒰ఎ ♡ ໒꒱ ⋆ﾟ⊹,0.0
+498,impressão problemas processar pagamentos,['Nubank'],Rio de Janeiro - Brasil,0.0
+501,lj_gfbpa certeza,['Nike'],"Curitiba, Brazil",0.0
+502,perguntar fdp dar,['Nike'],None,0.0
+503,futebol_info ataquemarketing ah tricolor fechar,['Nike'],"São Paulo, SP",0.0
+505,obg,['SHEIN'],maclaren's pub,0.0
+508,deus céu deixar pagar boletos amor sistema completamente lento travar,['Nubank'],Rio de Janeiro,0.0
+515,cérebro preciso entender acesso brás divi site live conjunto fit,['Nike'],"Lagoa da Prata, Brasil",0.0
+518,saber coisa celular nunca pqp começo amar agora pura porcaria miui,['Xiaomi'],None,0.0
+520,boy usar coisa falir des,['Nike'],None,0.0
+522,finalmente achar troxa pagar carrinho,['SHEIN'],Itabira,0.0
+525,primeira compra chegar querer segunda chegue,['SHEIN'],"Los Angeles, CA",0.0
+528,_ erickjunio padrão feia doer,['Nike'],🔺,0.0
+529,coloco carrinho,['SHEIN'],📍018,0.0
+530,_ erickjunio perder umbro,['Nike'],🔺,0.0
+531,maluzenhx minar usar allstar querer falar kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk,['Nike'],None,0.0
+533,brotar brotar versace,['Nike'],sm - rs🌴,0.0
+536,app abrir,['Nubank'],"São Luís, Brasil",0.0
+538,futebol_info ataquemarketing atlético nacional,['Nike'],27,0.0
+539,simplesmente deixar pagar pedir,['Nubank'],Looking at the same moon as we speak I always hope you’re happy I say to the night sky till it wears away just listen to me for one more day,0.0
+541,renjunglittr deixar ter cartão,['Nubank'],仁俊 ♥︎ 锟 ♥︎ 扬扬,0.0
+542,nunca tomar vida passar mal dor estômago,['Coca-cola'],eve,0.0
+544,foder agora status salário ap compras,['SHEIN'],Brasil,0.0
+548,raissahr amiga atual precisar maior,['Nubank'],"Rio de Janeiro, Brasil",0.0
+551,fêmea continuar diminuir qm usar cropped short lindar amo estilo diferenciar,['SHEIN'],"Cajati, Brasil",0.0
+552,banco inter mil vezes melhor dúvidas,['Nubank'],None,0.0
+553,mo vontade vender shorts saia,['Nike'],baixada sancria,0.0
+555,junioraas achar raciocínio procede deixar boca internacional europa alguns anos deixar united juventus city porto tempo gastar tubos manter barcelona sinceramente conseguir entender estratégia,['Nike'],None,0.0
+556,roupas masculinas dessa moh graça preferir brechozao mainha,['SHEIN'],None,0.0
+558,querer medo tmb kkkkkkkkk,['SHEIN'],None,0.0
+560,conseguir redefinir senha,['Nubank'],"Fortaleza, Brasil",0.0
+563,ver henna morro medo ficar dois símbolos caro,['Nike'],Itaiópolis,0.0
+564,diegosudariop shox mola,['Nike'],"Parobé, Brasil",0.0
+567,reporterlacerda estranho poucos clubes comodismo proposto ruim ninguém querer,['Nike'],None,0.0
+568,vsf court vision idêntico air force,['Nike'],͏͏ ͏          ͏͏ ͏,0.0
+569,opedrinkkj trocar chuteira achar mtooo melhor bola foder,['Nike'],None,0.0
+572,cerolzera ia começar chorar falaria boquinha boa contrata fx,['Nike'],"Maranhão, Brasil",0.0
+573,felipevinha mãe conseguir,['Nubank'],"Rio de Janeiro, Brasil",0.0
+574,literalmente mundo empresa sair fumar saio halls kkkkkkk vício caralho,['Coca-cola'],None,0.0
+575,tmncu fight ir bem olhar time inimigo ver boot jogar,['Nike'],None,0.0
+576,tempo abandonar clubes america tao focar grandes europa tipo barcelona,['Nike'],crf,0.0
+577,preciso parar tomar,['Coca-cola'],"Rio de Janeiro, Brasil",0.0
+579,má influência certo,['Nike'],Niterói,0.0
+580,aumentar namoral,['Nubank'],None,0.0
+581,demorar tanto comprinhas agr nada mai novidade mundo parecer renner,['SHEIN'],São Paulo - SP,0.0
+585,tristeza chegar roupa ficar bom,['SHEIN'],"Rio de Janeiro, Brasil",0.0
+587,sair sozinho conta agr consigo entrar enviar mail senha,['Nubank'],None,0.0
+592,tiktokbrasil cadê conto mandar favor né dias depositar osso,['Nubank'],Natal,0.0
+594,vez enganar tecer roupas,['SHEIN'],Lagoa santa MG,0.0
+595,mussumalive doido entrar nessa preços absurdo,['SHEIN'],None,0.0
+596,compras nao chegar ainda chorar,['SHEIN'],"Caçapava, Brasil",0.0
+602,app nunca conseguir ler código barras boleto,['Nubank'],"Sao Paulo, Brazil",0.0
+603,diabitta roupa aliexpress querer reclamar,['SHEIN'],None,0.0
+604,respeitar mlk intitular boy kkkkkkk,['Nike'],"Santos, Brasil",0.0
+613,poder poder renner poder amp novo conceito vestir folha bananeira,['SHEIN'],sitcom lovebot 🏡,0.0
+614,demora contestar pagamento dias,['Nubank'],MEU PAÍS ESPÍRITO SANTO,0.0
+615,sair futebol poucos,['Nike'],"Teresópolis, Brasil",0.0
+616,baixei pqqqqqq alguém tirar,['SHEIN'],"São Paulo, Brasil",0.0
+617,min telefone resolver total coisas,['Nubank'],"Brasília, Brasil",0.0
+619,sdds time sendo patrocinar,['Nike'],21,0.0
+620,porque time lenir cheio anuncio pobre nao poder,['SHEIN'],None,0.0
+621,deus horrível pagar boleto pqp demora ainda erro toda hora,['Nubank'],"São Paulo, Brasil",0.0
+622,fazer compra valor alto cagar medo taxar,['SHEIN'],None,0.0
+624,hello conhecer saber alguma regrinha sobre taxas compra but medo taxar,['SHEIN'],None,0.0
+629,namorada preferência,['Nike'],None,0.0
+631,aplicativo instável carregar nada,['Nubank'],"Fortaleza, Brasil",0.0
+636,imaginar realmente ficar puto usar junto,['Nike'],sp,0.0
+637,miojo,['Coca-cola'],21,0.0
+639,aparecer calça jogger puta parir coisa feia,['SHEIN'],Manaus,0.0
+640,espremer universitário final semestre sair caldo preto mistura café ódio,['Coca-cola'],"Manaus, Brasil",0.0
+649,medo calça taxar,['SHEIN'],"Jacarepaguá, Rio de Janeiro",0.0
+651,membro,['Nike'],"Paranaguá, Brasil",0.0
+652,querer abrir acho sinal manga tentar vez abrir compro,['Nubank'],None,0.0
+654,souojuao golpe kkkkkkkkkkkkk,['Nubank'],None,0.0
+655,filha puta pedir sair lugar desde maio perder dinheiro ficar puta,['SHEIN'],None,0.0
+656,alô pagar boletos app deixar,['Nubank'],"Porto Alegre, Brasil",0.0
+658,dever andar dinheiro brincar,"['Nike', 'SHEIN']","Ilha de França, França",0.0
+659,entender aumentar cartão,['Nubank'],ZN,0.0
+663,roubar dinheiro,['Nike'],None,0.0
+664,shoppe amazon areas extremamente perigosas,['SHEIN'],62,0.0
+665,alguém problema pagar boleto negócio concluir,['Nubank'],None,0.0
+670,uso tênis calçar foda,['Nike'],sp,0.0
+672,i fazer bico fazer compra conto duas semanas dispensar,['SHEIN'],011 Capital das Nota$,0.0
+674,chegar notificacao achar receber,['Nubank'],horror spunk —–· ela/dela,0.0
+680,apple,['Nubank'],SP,0.0
+683,coco,['Nubank'],"Engenho Novo, Rio de Janeiro",0.0
+684,irma comer miojo tomar deus coitado estomago,['Coca-cola'],"Belo Horizonte, Brasil",0.0
+686,teste caráter,['Nike'],"Manhuaçu, Brasil",0.0
+688,dragooncrf pezin acostumar,['Nike'],5551,0.0
+689,opinião faturas confusas pago fatura anterior pagamento aparecer próxima fatura,['Nubank'],13,0.0
+690,patrickallan tirodicanto melhor grupo clubes,['Nike'],None,0.0
+692,magalzaoshow muita experimenta pepsi vez qnd referir refrigerante,['Coca-cola'],Infelizmente,0.0
+693,app testar paciência,['Nubank'],"Guararapes, interior de SP",0.0
+695,cartomaniacosfc nunca demonstrar interessada entrar território sul americano,['Nike'],Niterói,0.0
+698,hfcoradini assim,['Coca-cola'],"Minas Gerais, Brasil",0.0
+703,umatleticano _ _ mesma coisas,['Nike'],"Ipatinga, Brasil",0.0
+704,saber problema,['Nubank'],None,0.0
+705,cara espírito consumista saia querer importar socorro,['Nike'],Me chamou de hopi Hari,0.0
+707,criatura fazer pedir ubereats causa,['Coca-cola'],"New Jersey, USA",0.0
+714,precisar pagar conta app carregar,['Nubank'],"Curvelo, Brasil",0.0
+715,pedir shopee chegar,['SHEIN'],デッド,0.0
+719,nao conseguir pagar boleto achar sinal gastar dinheiro,['SHEIN'],None,0.0
+722,cocacola_br brasil triste cidade restaurantes participantes mandar mimo,['Coca-cola'],"Três Lagoas, Brasil",0.0
+724,tomqr vez dia viro bixo,['Coca-cola'],None,0.0
+729,obrigada meses abandonar,['Nike'],"Sant'Ana do Livramento, Brasil",0.0
+730,semanas esperar capinhas trouxa,['SHEIN'],None,0.0
+731,veste time pequeno,['Nike'],None,0.0
+732,bater bola ovo prometer crédito agora nada,['Nubank'],"Rio de Janeiro, Brasil",0.0
